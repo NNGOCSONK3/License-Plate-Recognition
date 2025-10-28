@@ -9,3 +9,6 @@ pyyaml
 requests
 pandas
 seaborn
+pyserial
+torchaudio
+scipy 1.4.1
